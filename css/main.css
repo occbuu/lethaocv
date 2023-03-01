@@ -129,6 +129,12 @@ footer a:not(.nav-link) {
     cursor: pointer;
 }
 
+.text-blur {
+    color: #2c2e317a;
+    font-weight: none;
+    font-size: .875rem;
+}
+
 @media (min-width: 48em) {
     .site-title {
         float: left;
